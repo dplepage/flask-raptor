@@ -4,7 +4,7 @@ Flask-Raptor
 
 .. module:: Flask-Raptor
 
-The **Flask-Raptor** extension provides support for adding raptors to `Flask`_ instances.::
+The **Flask-Raptor** [#f1]_ extension provides support for adding raptors to `Flask`_ instances.::
 
     import flask_raptor
 
@@ -50,3 +50,4 @@ Configuration
 .. _Flask: http://flask.pocoo.org
 .. _GitHub: http://github.com/dplepage/flask-raptor
 .. _Konami Code: http://en.wikipedia.org/wiki/Konami_Code
+.. [#f1] Raptor image courtesy of `Ryan North <http://www.qwantz.com/>`_
