@@ -94,8 +94,8 @@ pygments_style = 'sphinx'
 html_theme = 'flask_small'
 
 html_theme_options = {
-     # 'index_logo': 'flask-raptor.png',
-     # 'github_fork': None
+     'index_logo': 'flask-raptor.png',
+     'github_fork': 'dplepage/flask-raptor'
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
