@@ -15,6 +15,9 @@ The **Flask-Raptor** extension provides support for adding raptors to `Flask`_ i
     if __name__ == "__main__":
         app.run()
 
+
+**Flask-Raptor** will automatically inject a raptor into the ``<head>`` element of any HTML returned by a view function.
+
 Source code and issue tracking at `GitHub`_.
 
 Installing Flask-Raptor
