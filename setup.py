@@ -9,8 +9,8 @@ Links
 
 * `documentation <http://packages.python.org/Flask-Raptor>`_
 
-
 """
+
 from setuptools import setup
 
 
@@ -25,7 +25,7 @@ setup(
     maintainer_email='dplepage@gmail.com',
     description='Raptor support for Flask',
     long_description=__doc__,
-    packages=['flask_raptor'],
+    pymodules=['flask_raptor'],
     test_suite='nose.collector',
     zip_safe=False,
     platforms='any',
