@@ -25,7 +25,7 @@ setup(
     maintainer_email='dplepage@gmail.com',
     description='Raptor support for Flask',
     long_description=__doc__,
-    pymodules=['flask_raptor'],
+    py_modules=['flask_raptor'],
     test_suite='nose.collector',
     zip_safe=False,
     platforms='any',
